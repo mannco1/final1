@@ -185,7 +185,7 @@ background: #18b5a4;
 /* index1 */
 .centralframe {
    
-   background-image: url('/public/images/фото_фон.png');
+   background-image: url('../public/images/фото_фон.png');
    background-size: cover;
    background-position: center;
    background-repeat: no-repeat;
